@@ -14,7 +14,7 @@ pySigma-backend-elasticsearch==1.1.6
 pysigma-pipeline-sysmon==1.0.4
 pysigma-pipeline-windows==1.2.0
 PyYAML==6.0.2
-requests==2.32.5
+requests==2.33.0
 sigma-cli==1.0.6
 urllib3==2.5.0
 wcwidth==0.2.13
